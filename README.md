@@ -1,9 +1,7 @@
-### Olá, Eu sou o Thiago Papim 👋
+👋<h2 style="text-align: center;"> Olá, Eu sou Thiago Papim, Estudante de programação <b>Full-Stack</b></h1>
 
 - 🇧🇷 Brasileiro
 - 🎒 Estudando Front-End
-  
-<h2 style="text-align: center;">Olá, Eu sou Thiago Papim, Estudante de programação <b>Full-Stack</b></h1>
 
 <div style="display: inline; text-align: center;">
   <div>
