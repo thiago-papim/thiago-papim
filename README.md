@@ -1,4 +1,4 @@
-👋<h2 style="text-align: center;"> Olá, Eu sou Thiago Papim, Estudante de programação <b>Full-Stack</b></h1>
+<h2 style="text-align: center;"> Olá, Eu sou Thiago Papim, Estudante de programação <b>Full-Stack</b></h1>
 
 - 🇧🇷 Brasileiro
 - 🎒 Estudando Front-End
@@ -12,7 +12,7 @@
         height="180em">
   </div>
   <div style="display: block; text-align: center;">
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img style="margin: 200px;" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
