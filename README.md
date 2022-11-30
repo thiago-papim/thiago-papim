@@ -8,3 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thiago-papim&show_icons=true&theme=dark" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-papim&show_icons=true&theme=dark" alt="">
 </div>
+<div style="display: inline-block">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
