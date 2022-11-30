@@ -5,5 +5,5 @@
 
 <div>
   <a href="https://github.com/thiago-papim">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-papim&show_icons=true&theme=dracula" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-papim&show_icons=true&theme=dark" height="180em">
 </div>
