@@ -3,14 +3,13 @@
 - 🇧🇷 Brasileiro
 - 🎒 Estudando Front-End
 
-<div style="display: inline; text-align: center;">
-  <div>
-    <a href="https://github.com/thiago-papim">
-      <img src="https://github-readme-stats.vercel.app/api?username=thiago-papim&show_icons=true&theme=dark"
+<div>
+   <a href="https://github.com/thiago-papim">
+     <img src="https://github-readme-stats.vercel.app/api?username=thiago-papim&show_icons=true&theme=dark"
         height="180em">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-papim&show_icons=true&theme=dark"
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-papim&show_icons=true&theme=dark"
         height="180em">
-  </div>
+ </div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
