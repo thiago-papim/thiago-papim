@@ -1,7 +1,7 @@
-<h2 style="text-align: center;"> Olá, Eu sou Thiago Papim, Estudante de programação <b>Full-Stack</b></h1>
+<h2 style="text-align: center;"> Olá, Eu sou Thiago Papim, Desenvolvedor <b>Full-Stack</b></h1>
 
 - 🇧🇷 Brasileiro
-- 🎒 Estudando Front-End
+- 🎒 Estudando Back-end
 
 <div align="center">
    <a href="https://github.com/thiago-papim">
