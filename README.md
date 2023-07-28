@@ -21,16 +21,17 @@ Sou o Thiago, uma pessoa apaixonada por ajudar os outros, e acredito que a tecno
 <div>
 
 #### Banco de Dados
-    - TypeScript
-    - JavaScript
-    - MySQL
-    - Node.js
-    - Docker
-    - Arquitetura de software MSC
-    - Express
-    - ORM
-    - Mocha.js
-    - Jest.js
+
+- TypeScript
+- JavaScript
+- MySQL
+- Node.js
+- Docker
+- Arquitetura de software MSC
+- Express
+- ORM
+- Mocha.js
+- Jest.js
 </div>
 <div>
 
