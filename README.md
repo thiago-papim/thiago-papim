@@ -34,9 +34,11 @@ Meu objetivo atual é crescer como profissional na área de desenvolvimento e, a
 - Docker
 - Arquitetura de software MSC
 - Express
+- Sequelize
 - ORM
 - Mocha.js
 - Jest.js
+- Java
 </div>
 <div>
 
