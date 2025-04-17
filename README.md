@@ -46,6 +46,9 @@ Meu objetivo atual é crescer como profissional na área de desenvolvimento e, a
 - HTML
 - React
 - CSS (incluindo tailwind e bootstrap)
+- Tailwind
+- Material UI
+- Bootstrap
 - JavaScript
 - TDD
 - Mocha.js
