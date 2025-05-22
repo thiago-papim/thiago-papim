@@ -1,7 +1,7 @@
 ## Thiago Papim, Desenvolvedor Full-Stack
 
 - 🇧🇷 Brasileiro
-- 31 Anos
+- 32 Anos
 
 ## Olá, mundo! 🌐
 
